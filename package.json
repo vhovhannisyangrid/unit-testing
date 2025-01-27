@@ -4,7 +4,8 @@
   "description": "Unit testing task",
   "type": "module",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "devDependencies": {
     "@babel/core": "^7.26.7",
